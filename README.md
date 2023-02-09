@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Codife
 - 👀 I’m interested in learning new technologies.
-- 🌱 I’m currently working as a web developer.
+- 🌱 I’m currently working as a full stack developer.
 - 📫 You can contact me via hunainjamil3@gmail.com
 
 <!---
